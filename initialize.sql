@@ -21,11 +21,3 @@ insert into StatesOfApproval values (0, 'Form not submitted to Executive'),
 (9, 'Rejected by Chairperson'),
 (10,'Rejected by Finance Convenor'),
 (11, 'Check Remarks');
-
-drop table UsedMoney;
-drop table PledgedMoney;
-drop table Forms;
-drop table StatesOfApproval;
-drop table Senators;
-drop table Funds;
-drop table Users;
